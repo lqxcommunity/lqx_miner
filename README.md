@@ -12,7 +12,7 @@ Linux
 ### Configuração necessária
 
 Descompate o arquivo com o programa 7zip, e escolha se quer minerar com CPU ou GPU.
-Edire o arquivo .dat substituindo "SUA CARTEIRA DE LQX" pelo endereço da sua carteira, lembre de trocar inclusive as aspas duplas.
+Edite o arquivo .dat substituindo "SUA CARTEIRA DE LQX" pelo endereço da sua carteira, lembre de trocar inclusive as aspas duplas.
 
 ### Dica
 
